@@ -7,3 +7,7 @@
 - [Identity Lifecycle](https://github.com/Dmccants22/Identity-Lifecycle-/tree/main)
 - [Audit Logs](https://github.com/Dmccants22/Audit-Logs-/tree/main)
 - [Sign-In Logs](https://github.com/Dmccants22/Signin-Logs/tree/main)
+- [Condtional Access](https://github.com/Dmccants22/Conditional-Access-/blob/main/README.md)
+- [Password protection](https://github.com/Dmccants22/Password-Protection-/tree/main)
+- [Access Review](https://github.com/Dmccants22/Access-Review-/tree/main)
+- [Privileged Identity Management](https://github.com/Dmccants22/Privileged-Identity-Management/tree/main)
